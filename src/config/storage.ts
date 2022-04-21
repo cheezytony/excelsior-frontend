@@ -1,0 +1,1 @@
+export const tokenKey = 'antonio-okoro:blog:token';
